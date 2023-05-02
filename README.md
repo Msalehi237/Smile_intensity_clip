@@ -1,3 +1,4 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------
 **Smile Intensity with CLIP**
 
 This Project measures smile intensity. Smile intensity is a usually considered a subjective measure of the degree to which a person is smiling. It can vary from a slight, subtle smile to a wide, tooth-baring grin, and everything in between.
