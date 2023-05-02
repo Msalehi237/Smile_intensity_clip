@@ -1,4 +1,4 @@
-#Smile Intensity with CLIP
+**Smile Intensity with CLIP**
 
 This Project measures smile intensity. Smile intensity is a usually considered a subjective measure of the degree to which a person is smiling. It can vary from a slight, subtle smile to a wide, tooth-baring grin, and everything in between.
 ![smile](https://user-images.githubusercontent.com/71953974/235794735-52c273e0-51ad-4e1e-9660-57ac127d48bf.png)
@@ -20,7 +20,7 @@ The results for different subjects was not comparable:
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
-CLIP Model
+**CLIP Model**
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 The code tokenizes four text descriptions of different smile intensities using clip.tokenize and encodes the image features using model.encode_image. It then concatenates all image features and encodes the text features using model.encode_text.
