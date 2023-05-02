@@ -12,7 +12,7 @@ This project demonstrates how to use the CLIP (Contrastive Language-Image Pre-Tr
 - Facenet Package
 - CLIP Model
 
-Among these various models and approaches, CLIP model showed the best results. While seconed approach was showing excellent results for the same subject:
+While seconed approach was showing excellent results for the same subject:
 ![Unknown-2](https://user-images.githubusercontent.com/71953974/235799186-a961849b-a2bb-4bfd-aeee-8a3741d3767c.png)
 
 
